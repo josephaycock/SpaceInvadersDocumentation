@@ -8,7 +8,7 @@ This project was made for CSC 2463 - Programming Digital Media
   - Aurduino was the physical computing of the game
 
 ## How To Play
-The menu screen is first shown to give instructions on how to use the controls.
+### The menu screen is first shown to give instructions on how to use the controls.
 - LMB is used to alternate between screens.
 - Spacebar is for the user to shoot lasers at the aliens.
 - The thumb stick is for the user to move left and right of the screen to dodge the lasers from the invaders.
@@ -20,7 +20,7 @@ The menu screen is first shown to give instructions on how to use the controls.
 ### The end screen shows the user score and time they survived.
 - To restart the game click the LMB on the screen.
 
-The graphic of the games that were made using P5.js and P5play.js
+## The graphic of the games that were made using P5.js and P5play.js
 - Three screens which are the Start, Game, and End screens
 - The ship were made from the P5.js and P5play.js consisting of two rectangles together
   - The lasers were also made from a rectangle which was used by both th user and aliens
@@ -31,7 +31,7 @@ The graphic of the games that were made using P5.js and P5play.js
   - In Game screen Time, Score, and Lives were recorded on the top screen
   - In End screen the Time Survived and Score Gained were recorded
 
-The sound of the game that were made using Tone.js
+## The sound of the game that were made using Tone.js
 - The game consists of four sounds.
   - Alien laser
     - Created using BitCrusher into a PolySynth instrument
@@ -46,6 +46,6 @@ The sound of the game that were made using Tone.js
     - Created using a Pattern of 5 different keys
       - 'A3, B3, C3, E3, G3'
 
-The physical computing were made using Aurduino
+## The physical computing were made using Aurduino
 - Contoller was connected into the Aurduino board and coded into the .ino file and javascript file
 - LED was used to tell user when the user ship was hit
