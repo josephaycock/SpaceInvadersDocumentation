@@ -49,3 +49,11 @@ This project was made for CSC 2463 - Programming Digital Media
 ## The physical computing were made using Aurduino
 - Contoller was connected into the Aurduino board and coded into the .ino file and javascript file
 - LED was used to tell user when the user ship was hit
+
+# Images of Project
+## Start Screen
+![Screenshot 2024-05-08 at 9 26 31 PM](https://github.com/josephaycock/SpaceInvadersDocumentation/assets/111546768/9f6631bd-b0b0-4abc-ad94-fdda631ed896)
+## Game Screen
+![Screenshot 2024-05-08 at 9 26 58 PM](https://github.com/josephaycock/SpaceInvadersDocumentation/assets/111546768/b6feb608-6bb3-4b57-a0cb-de014a2b7b9b)
+## End Screen
+![Screenshot 2024-05-08 at 9 27 05 PM](https://github.com/josephaycock/SpaceInvadersDocumentation/assets/111546768/b89b76c7-996b-422f-919c-391b5bb1f44c)
