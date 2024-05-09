@@ -58,3 +58,14 @@ This project was made for CSC 2463 - Programming Digital Media
 ![Screenshot 2024-05-08 at 9 26 58 PM](https://github.com/josephaycock/SpaceInvadersDocumentation/assets/111546768/b6feb608-6bb3-4b57-a0cb-de014a2b7b9b)
 ## End Screen
 ![Screenshot 2024-05-08 at 9 27 05 PM](https://github.com/josephaycock/SpaceInvadersDocumentation/assets/111546768/b89b76c7-996b-422f-919c-391b5bb1f44c)
+
+# Video of Game
+[https://youtube.com/shorts/6TWA7J1KLoo?feature=share]
+
+https://github.com/josephaycock/SpaceInvadersDocumentation/assets/111546768/73e85692-a6d4-4763-a318-1ecb038a6a91
+
+# Thoughts of Future Development
+- Add more sound effects
+- Revamp the menus to have clickable buttons
+- More types of aliens
+- Change the ship design into a sprite
