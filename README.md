@@ -1,3 +1,4 @@
-# SpaceInvadersDocumentation
+# Invaders In Space Documentation
 
-helo
+# Description of Project
+This project was made for CSC 2463 - Programming Digital Media
